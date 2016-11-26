@@ -14,3 +14,10 @@ How can you use the staging area to make sure you have one commit per logical ch
     After modifications done I can add one modified file to staging area and commit. Next I can
     add another file and so on. At any time I can make sure using git diff --staged that changes
     between staging area and last commit are related to one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+    If you want to start with some dramatical change without losing posibility of working on
+    previous version you can start experimental branch and continue working on two versions
+    at once.
