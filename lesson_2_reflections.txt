@@ -8,3 +8,9 @@ How is the staging area differentfrom the working directory and the repository? 
 	Staging area contains snapshot of files from the working directory at the time we added them
 	to this area. They are not in repository yet. Before commiting staging area we can change files
 	or replace them with updated versions.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    After modifications done I can add one modified file to staging area and commit. Next I can
+    add another file and so on. At any time I can make sure using git diff --staged that changes
+    between staging area and last commit are related to one logical change.
