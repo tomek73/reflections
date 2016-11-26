@@ -21,3 +21,8 @@ How would branches help?
     If you want to start with some dramatical change without losing posibility of working on
     previous version you can start experimental branch and continue working on two versions
     at once.
+
+How do the diagrams help you visualize the branch structure?
+
+    With diagrams I can clearly see when do start and end branches, where master branch is,
+    which commits are unreachable.
