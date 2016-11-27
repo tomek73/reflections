@@ -26,3 +26,9 @@ How do the diagrams help you visualize the branch structure?
 
     With diagrams I can clearly see when do start and end branches, where master branch is,
     which commits are unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do?
+
+    Merged branch has two or more parents. Name of the merged branch is inherited from checked branch.
+    Into that branch are merged changes from another branch.

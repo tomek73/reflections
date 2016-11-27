@@ -2,3 +2,8 @@ When would you want to create a remote repository rather than keeping all your w
 
   When you want to keep your work safe or when you want to collaborate with others.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date
+with your remote repository?
+
+    Changes make in one commit may break functionality of the program and I might want to have 
+    only working version available for public access
